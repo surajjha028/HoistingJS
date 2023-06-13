@@ -6,11 +6,9 @@ var x = 7;
 
 function getName() {
     console.log("Namaste Javascript")
+    // output:-  Namaste Javascript
 }
 
 getName();
 console.log(x);
-
-// output on the console will be
-// Namaste Javascript
-// 7 
+// output :- 7 
