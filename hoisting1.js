@@ -5,7 +5,7 @@ getName();
 */
 
 console.log(x);
-// And even we are trying access x , even we have not putted the value into x
+// And even we are trying access x ,even we have not putted the value into x
 
 /* In other programming language it will provide an error 
    and what will JS do it . it will provide an special value i.e undefine
