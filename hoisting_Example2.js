@@ -1,6 +1,6 @@
 // Now what we will do will remove the variable , for more info.
 getName();
-console.log(x);
+console.log(x); // X is not define
 
 // var x = 7;
 
@@ -10,5 +10,5 @@ function getName() {
     console.log("Namaste Javascript")
 }
 
-// output on the console will be
-// X is not define 
+
+
