@@ -4,7 +4,8 @@ getName();
    even before we have initialize
 */
 
-console.log(x);
+console.log(x); // undefined
+
 // And even we are trying access x ,even we have not putted the value into x
 
 /* In other programming language it will provide an error 
@@ -14,11 +15,8 @@ console.log(x);
 var x = 7;
 
 function getName() {
-    console.log("Namaste Javascript")
+    console.log("Namaste Javascript") // Namaste Javascript
 }
 
 
 
-// output on the console will be
-// Namaste Javascript
-// undefined
